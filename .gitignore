@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+Dynamics_Pendulum/Data/
+Dynamics_Pendulum/Gifs/
+Dynamics_Pendulum/Code/Old_Code/
+Dynamics_Pendulum/Code/wandb/
+Dynamics_Pendulum/Code/lightning_logs/
+
+
 # C extensions
 *.so
 
